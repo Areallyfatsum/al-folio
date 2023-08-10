@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://areallyfatsum.github.io/al-folio/sitemap.xml
